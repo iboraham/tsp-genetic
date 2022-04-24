@@ -1,10 +1,6 @@
 # Welcome to tsp-genetic repository
 Application of genetic algorithm on Travelling Salesman problem
 
-# Experiment
-![Presentation](https://github.com/iboraham/tsp-genetic/blob/master/presentation/MachineLearning-Hw4.pdf)
-
-<embed src="https://github.com/iboraham/tsp-genetic/blob/master/presentation/MachineLearning-Hw4.pdf" type="application/pdf">
 
 # Usage
 
